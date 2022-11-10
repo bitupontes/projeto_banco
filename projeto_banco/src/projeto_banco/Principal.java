@@ -18,7 +18,7 @@ public class Principal {
 		cliente1.conta.setSaque(100); // Forma correta de utilização
 		System.out.println(cliente1.conta.saldo);
 		
-		cliente1.conta.saldo = 1000; //
+		cliente1.conta.saldo = 1000; // s
 	}
 
 }
