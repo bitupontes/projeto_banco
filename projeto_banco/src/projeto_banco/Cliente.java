@@ -1,7 +1,7 @@
 package projeto_banco;
 
 public class Cliente {
-//
+
 	String nome;
 	String cpf; // private String cpf -> não permite que outras classes manipulem o objeto
 	
