@@ -18,7 +18,14 @@ public class Principal {
 		conta1.saldo = 999;
 		
 		Cliente cliente2 = new Cliente();
+		cliente2.nome = "Handreya";
+		cliente2.cpf = "3434";
 		cliente2.conta = conta1;
+		
+		Cliente cliente3 = new Cliente();
+		cliente3.nome = "Carlão";
+		cliente3.cpf = "1221";
+		cliente3.conta = conta1;
 	}
 
 }
